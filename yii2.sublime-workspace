@@ -1,0 +1,1088 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Cle",
+				"ClearCallArgument_t"
+			],
+			[
+				"dail",
+				"dialedNumber"
+			],
+			[
+				"call",
+				"callID"
+			],
+			[
+				"dia",
+				"dialedNumber"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"di",
+				"dialingNumber"
+			],
+			[
+				"st",
+				"stdio"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"fre",
+				"free"
+			],
+			[
+				"le",
+				"len"
+			],
+			[
+				"pkt",
+				"pktcmd"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"cre",
+				"create_process"
+			],
+			[
+				"process",
+				"create_process"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"all",
+				"allRelation"
+			],
+			[
+				"grou",
+				"group"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"ino",
+				"inout_section"
+			],
+			[
+				"fi",
+				"field"
+			],
+			[
+				"print",
+				"printSavedRelation"
+			],
+			[
+				"getGri",
+				"getGridRowSelected"
+			],
+			[
+				"max",
+				"max_call_section"
+			],
+			[
+				"ro",
+				"rownumbers"
+			],
+			[
+				"find",
+				"findrelation_section"
+			],
+			[
+				"rela",
+				"relation_section"
+			],
+			[
+				"relo",
+				"reloadGrid"
+			],
+			[
+				"saved",
+				"savedSearchDialog"
+			],
+			[
+				"findBy",
+				"findByAttributes"
+			],
+			[
+				"gr",
+				"graph"
+			],
+			[
+				"parent",
+				"parent_number"
+			],
+			[
+				"pare",
+				"parent_number"
+			],
+			[
+				"res",
+				"res_type"
+			],
+			[
+				"birth",
+				"birthday"
+			],
+			[
+				"child",
+				"child_number"
+			],
+			[
+				"paren",
+				"parent_info"
+			],
+			[
+				"query",
+				"queryAll"
+			],
+			[
+				"quer",
+				"query_temp_child"
+			],
+			[
+				"que",
+				"query_temp_parent"
+			],
+			[
+				"chil",
+				"child_number"
+			],
+			[
+				"tell",
+				"telldata_database"
+			],
+			[
+				"telldata",
+				"telldata_username"
+			],
+			[
+				"tellda",
+				"telldata_username"
+			],
+			[
+				"pro",
+				"process_relation"
+			],
+			[
+				"ch",
+				"child_so"
+			],
+			[
+				"error",
+				"error_log"
+			],
+			[
+				"log",
+				"log_save"
+			],
+			[
+				"sq",
+				"sql_ins"
+			],
+			[
+				"iss",
+				"issave"
+			],
+			[
+				"Tell",
+				"TelldataSaveResponse"
+			],
+			[
+				"creta",
+				"createCommand"
+			],
+			[
+				"uniq",
+				"unique_id"
+			],
+			[
+				"gro",
+				"group_id"
+			],
+			[
+				"temp",
+				"temp_find_relation"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"un",
+				"uniqu_id"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"select",
+				"select	Tag"
+			],
+			[
+				"proce",
+				"process_temp_relation"
+			],
+			[
+				"sql",
+				"sql_prs_upate"
+			],
+			[
+				"conn",
+				"conn_ins"
+			],
+			[
+				"qur",
+				"query_temp_parent"
+			],
+			[
+				"nums",
+				"numso"
+			],
+			[
+				"temp_ta",
+				"temp_table_2"
+			],
+			[
+				"ma",
+				"main	main()"
+			],
+			[
+				"request",
+				"request_count"
+			],
+			[
+				"reques",
+				"request_count"
+			],
+			[
+				"req",
+				"required"
+			],
+			[
+				"tem",
+				"tempTamir"
+			],
+			[
+				"phone",
+				"phone_number_type"
+			],
+			[
+				"chec",
+				"checkNumberPhone"
+			],
+			[
+				"ب",
+				"بدون"
+			],
+			[
+				"بین",
+				"بین‌الملل"
+			],
+			[
+				"fo",
+				"for	Attr"
+			],
+			[
+				"count",
+				"count_all"
+			],
+			[
+				"numbers",
+				"numbers_owners"
+			],
+			[
+				"comment",
+				"comment_data"
+			],
+			[
+				"set",
+				"setCommentNew"
+			],
+			[
+				"getC",
+				"getComment"
+			],
+			[
+				"create",
+				"createCommand"
+			],
+			[
+				"numbers_ow",
+				"numbers_owners_id"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"show",
+				"showDataCommentRow"
+			],
+			[
+				"dataR",
+				"showDataCommentRow"
+			],
+			[
+				"date",
+				"date_add"
+			],
+			[
+				"Tel",
+				"TelldataComment"
+			],
+			[
+				"row",
+				"rowid"
+			],
+			[
+				"comme",
+				"comment"
+			],
+			[
+				"tex",
+				"textarea	Tag"
+			],
+			[
+				"numb",
+				"numbers_owners"
+			],
+			[
+				"group",
+				"group_id"
+			],
+			[
+				"return",
+				"return_id"
+			],
+			[
+				"retur",
+				"return_id"
+			],
+			[
+				"retu",
+				"return_id"
+			],
+			[
+				"user",
+				"userid"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"cmd",
+				"cmd_start"
+			],
+			[
+				"red",
+				"rednumber"
+			],
+			[
+				"owner",
+				"owners"
+			],
+			[
+				"automation",
+				"automation_core"
+			],
+			[
+				"need",
+				"need_accept"
+			],
+			[
+				"login",
+				"login_by_hid"
+			],
+			[
+				"toke",
+				"token_info"
+			],
+			[
+				"please",
+				"please_login_by_browser"
+			],
+			[
+				"cha",
+				"chart"
+			],
+			[
+				"pd",
+				"pdo_t"
+			],
+			[
+				"saba",
+				"saba_tamir"
+			],
+			[
+				"login_by",
+				"login_by_hid"
+			],
+			[
+				"logn",
+				"login_by_hid"
+			],
+			[
+				"toe",
+				"token_info"
+			],
+			[
+				"User",
+				"UserToken"
+			],
+			[
+				"chart",
+				"chart_id"
+			],
+			[
+				"CHART",
+				"chart_id"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"token",
+				"token_info"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"سخت",
+				"سخت‌‌افزاری"
+			],
+			[
+				"parse",
+				"parseJSON"
+			],
+			[
+				"id",
+				"idrow"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"lac",
+				"lac_cell"
+			],
+			[
+				"la",
+				"latitude"
+			],
+			[
+				"CLL",
+				"CALLOWNER"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"date_re",
+				"date_request"
+			],
+			[
+				"Saba",
+				"SabaInfo"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "backend/controllers/PostController.php",
+			"settings":
+			{
+				"buffer_size": 184,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "backend/views/post/index.php",
+			"settings":
+			{
+				"buffer_size": 18,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "backend/controllers/SiteController.php",
+			"settings":
+			{
+				"buffer_size": 1796,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 369.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"phpfmt: refactor"
+			]
+		],
+		"width": 539.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/media/mehrdad/d3d519e9-61c7-43c8-bc63-70b10829f9111/vagrant/precise/www/advanced",
+		"/media/mehrdad/d3d519e9-61c7-43c8-bc63-70b10829f9111/vagrant/precise/www/advanced/backend",
+		"/media/mehrdad/d3d519e9-61c7-43c8-bc63-70b10829f9111/vagrant/precise/www/advanced/backend/controllers",
+		"/media/mehrdad/d3d519e9-61c7-43c8-bc63-70b10829f9111/vagrant/precise/www/advanced/backend/views"
+	],
+	"file_history":
+	[
+		"/media/mehrdad/d3d519e9-61c7-43c8-bc63-70b10829f9111/vagrant/precise/www/advanced/backend/controllers/PostController.php",
+		"/media/mehrdad/d3d519e9-61c7-43c8-bc63-70b10829f9111/vagrant/precise/www/advanced/backend/views/post/index.php",
+		"/media/mehrdad/d3d519e9-61c7-43c8-bc63-70b10829f9111/vagrant/precise/www/advanced/backend/controllers/SiteController.php",
+		"/media/mehrdad/d3d519e9-61c7-43c8-bc63-70b10829f9111/vagrant/precise/www/advanced/common/config/main-local.php",
+		"/media/mehrdad/d3d519e9-61c7-43c8-bc63-70b10829f9111/vagrant/precise/www/advanced/environments/dev/backend/web/index.php",
+		"/media/mehrdad/d3d519e9-61c7-43c8-bc63-70b10829f9111/vagrant/precise/www/advanced/environments/prod/backend/web/index.php",
+		"/media/mehrdad/d3d519e9-61c7-43c8-bc63-70b10829f9111/vagrant/precise/www/advanced/environments/dev/backend/config/main-local.php",
+		"/media/mehrdad/d3d519e9-61c7-43c8-bc63-70b10829f9111/vagrant/precise/www/advanced/common/models/User.php",
+		"/media/mehrdad/d3d519e9-61c7-43c8-bc63-70b10829f9111/vagrant/precise/www/advanced/vendor/autoload.php",
+		"/media/mehrdad/d3d519e9-61c7-43c8-bc63-70b10829f9111/vagrant/precise/www/advanced/common/config/main.php",
+		"/media/mehrdad/d3d519e9-61c7-43c8-bc63-70b10829f9111/vagrant/precise/www/advanced/common/config/params-local.php",
+		"/media/mehrdad/d3d519e9-61c7-43c8-bc63-70b10829f9111/vagrant/precise/www/advanced/requirements.php",
+		"/run/user/1000/gvfs/sftp:host=192.168.11.12/home/ava/code/i.am.help.txt",
+		"/run/user/1000/gvfs/sftp:host=192.168.11.12/home/ava/code/asn1c/Makefile",
+		"/run/user/1000/gvfs/sftp:host=192.168.11.12/home/ava/code/asn1c/kxtda.asn1",
+		"/run/user/1000/gvfs/sftp:host=192.168.11.12/home/ava/code/asn1c/ConnectionID.h",
+		"/run/user/1000/gvfs/sftp:host=192.168.11.12/home/ava/code/asn1c/ConferenceCallArgument.h",
+		"/run/user/1000/gvfs/sftp:host=192.168.11.12/home/ava/code/asn1c/tda.c",
+		"/run/user/1000/gvfs/sftp:host=192.168.11.12/home/ava/code/sample/2/kxtda.asn1",
+		"/run/user/1000/gvfs/sftp:host=192.168.11.12/home/ava/code/sample/MonitorStartArgument.h",
+		"/run/user/1000/gvfs/sftp:host=192.168.11.12/home/ava/code/sample/CallControlServices.h",
+		"/run/user/1000/gvfs/sftp:host=192.168.11.12/home/ava/code/sample/CallControlServices.c",
+		"/media/truecrypt3/pana/csta/Version 03/source-files/asn1-source/call-control.asn1",
+		"/run/user/1000/gvfs/sftp:host=192.168.11.12/home/ava/code/sample/2/test.asn1",
+		"/media/truecrypt3/pana/csta/Version 03/source-files/asn1-source/conference-call.asn1",
+		"/media/truecrypt3/pana/csta/Version 03/source-files/rose94.asn1",
+		"/run/user/1000/gvfs/sftp:host=192.168.11.12/home/ava/code/sample/main.c",
+		"/run/user/1000/gvfs/sftp:host=192.168.11.12/home/ava/code/asn1c/CSTAapdu.c",
+		"/run/user/1000/gvfs/sftp:host=192.168.11.12/home/ava/code/asn1c/CSTAapdu.h",
+		"/run/user/1000/gvfs/sftp:host=192.168.11.12/home/ava/code/sample/NumberDigits.c",
+		"/run/user/1000/gvfs/sftp:host=192.168.11.12/home/ava/code/sample/CSTAServices.h",
+		"/run/user/1000/gvfs/sftp:host=192.168.11.12/home/ava/code/sample/CSTAServices.c",
+		"/media/truecrypt3/kavosh/cssmenu/index.html",
+		"/media/truecrypt3/kavosh/cssmenu/styles.css",
+		"/media/truecrypt3/automation/asli/automation/protected/views/telldata/index.php",
+		"/media/truecrypt3/automation/asli/automation/protected/controllers/TelldataController.php",
+		"/media/truecrypt3/automation/asli/automation/protected/views/telldata/oneToOthers (copy).php",
+		"/media/truecrypt3/automation/asli/automation/protected/views/telldata/printRelation.php",
+		"/home/mehrdad/Documents/dln/run.sh",
+		"/home/mehrdad/Documents/dln/links.txt",
+		"/media/truecrypt3/automation/asli/bin/automation/AsliServiceManager.c",
+		"/media/truecrypt3/automation/asli/bin/automation/run/telldata/FindRelation.c",
+		"/media/truecrypt3/automation/asli/bin/automation/tamir_sid.php",
+		"/media/truecrypt3/automation/asli/automation/protected/views/telldata/oneToOthers.php",
+		"/media/truecrypt3/automation/asli/bin/automation/run/telldata/NumberOwnersJoin.c",
+		"/media/truecrypt3/automation/asli/automation/protected/info/sql/patch-15.sql",
+		"/media/truecrypt3/automation/asli/automation/app_define.php",
+		"/media/truecrypt3/automation/asli/automation/index.php",
+		"/media/truecrypt3/automation/asli/automation/css/pure-min.css",
+		"/home/mehrdad/f/public_html_dep/ccc/netprog/TCPEchoClient.c",
+		"/home/mehrdad/f/public_html_dep/ccc/netprog/TCPServer4.c",
+		"/home/mehrdad/debian-download.txt",
+		"/media/truecrypt3/automation/asli/automation/protected/models/TempSabaTamir.php",
+		"/media/truecrypt3/automation/asli/automation/protected/models/SabaTamir.php",
+		"/media/truecrypt3/automation/asli/automation/protected/models/Info.php",
+		"/media/truecrypt3/automation/asli/automation/protected/controllers/LetterController.php",
+		"/media/truecrypt3/automation/asli/automation/js/letter/main.js",
+		"/media/truecrypt3/automation/asli/automation/protected/views/letter/_form.php",
+		"/media/truecrypt3/automation/asli/bin/automation/tamir.php",
+		"/media/truecrypt3/automation/asli/automation/protected/info/sql/patch-14.sql",
+		"/media/truecrypt3/automation/asli/automation/protected/config/main.php",
+		"/media/truecrypt3/automation/asli/automation/protected/components/Controller.php",
+		"/media/truecrypt3/tst/test.php",
+		"/media/truecrypt3/automation/asli/bin/automation/xlsxReader/run_owners.php",
+		"/media/truecrypt3/automation/asli/bin/automation/xlsxReader/run_numbers.php",
+		"/media/truecrypt3/automation/asli/automation/protected/info/sql/patch-11.sql",
+		"/media/truecrypt3/automation/asli/automation/protected/info/sql/patch-10.sql",
+		"/media/truecrypt3/automation/asli/automation/protected/controllers/AllsenderController.php",
+		"/media/truecrypt3/automation/asli/bin/automation/xlsxReader/wraper.c",
+		"/media/truecrypt3/automation/asli/automation/protected/views/telldata/error.php",
+		"/media/truecrypt3/automation/asli/automation/protected/models/User.php",
+		"/media/truecrypt3/diff.txt",
+		"/media/truecrypt3/automation/asli/automation/protected/views/site/login.php",
+		"/media/truecrypt3/automation/asli/automation/protected/components/UserIdentity.php",
+		"/media/truecrypt3/tst/try.php",
+		"/media/truecrypt3/automation/asli/automation/protected/messages/fa_ir/app.php",
+		"/media/truecrypt3/app2.php",
+		"/media/truecrypt3/app-t1.php",
+		"/media/truecrypt3/app-t2.php",
+		"/media/truecrypt3/automation/asli/automation/protected/messages/fa_ir/app-t2.php",
+		"/media/truecrypt3/app.php",
+		"/media/truecrypt3/automation/asli/automation/protected/controllers/AdminController.php",
+		"/media/truecrypt3/automation/asli/automation/protected/views/admin/chart.php",
+		"/media/truecrypt3/automation/asli/automation/js/assests/chart.js",
+		"/media/truecrypt3/automation/asli/automation/protected/controllers/UserController.php",
+		"/media/truecrypt3/minicom.txt",
+		"/media/truecrypt3/automation/asli/automation/protected/views/admin/index.php",
+		"/media/truecrypt3/automation/asli/automation/js/admin_area.js",
+		"/media/truecrypt3/automation/asli/automation/protected/views/telldata/lac_cell.php",
+		"/media/truecrypt3/automation/asli/automation/protected/views/letter/index.php",
+		"/media/truecrypt3/automation/asli/automation/protected/views/letter/inbox.php",
+		"/media/truecrypt3/automation/asli/automation/css/orgchart/js/main.js",
+		"/media/truecrypt3/automation/asli/automation/js/letter/inbox.js",
+		"/media/truecrypt3/automation/asli/bin/automation/run/ava/letterCreate.php",
+		"/media/truecrypt3/automation/asli/automation/protected/models/SabaInfo.php",
+		"/media/truecrypt3/automation/asli/automation/protected/class/AES.php",
+		"/media/truecrypt3/tttttttt.txt",
+		"/media/truecrypt3/automation/asli/automation/protected/info/sql/patch-12.sql",
+		"/media/truecrypt3/automation/asli/bin/automation/run/telldata/NumberOwnersJoin",
+		"/media/truecrypt3/automation/asli/bin/automation/run/telldata/Makefile",
+		"/media/truecrypt3/automation/asli/automation/protected/views/telldata/owners.php",
+		"/media/truecrypt3/automation/asli/automation/protected/views/layouts/mainTelldata.php",
+		"/media/truecrypt3/automation/asli/automation/js/jqtab.js",
+		"/home/mehrdad/Downloads/source.list",
+		"/home/mehrdad/public_html/automation/asli/automation/protected/info/sql/patch-13.sql",
+		"/home/mehrdad/public_html/automation/asli/bin/automation/run/telldata/NumberOwnersJoin.c",
+		"/home/mehrdad/public_html/automation/asli/bin/automation/xlsxReader/run_numbers.php",
+		"/home/mehrdad/public_html/automation/asli/automation/protected/messages/fa_ir/app.php",
+		"/home/mehrdad/public_html/automation/asli/automation/protected/views/layouts/main.php",
+		"/home/mehrdad/public_html/automation/asli/automation/js/letter/inbox.js",
+		"/home/mehrdad/Documents/files/compile/main.cpp",
+		"/home/mehrdad/Documents/files/compile/C++/KeyA3 C++ Sample/main.cpp",
+		"/home/mehrdad/public_html/automation/asli/automation/protected/views/telldata/index.php",
+		"/home/mehrdad/public_html/automation/asli/automation/index.php",
+		"/home/mehrdad/public_html/automation/asli/bin/automation/AsliServiceManager.c",
+		"/home/mehrdad/public_html/automation/asli/automation/protected/controllers/TelldataController.php",
+		"/home/mehrdad/public_html/automation/asli/automation/protected/views/letter/_form.php",
+		"/home/mehrdad/public_html/automation/asli/automation/protected/models/TamirRequest.php",
+		"/home/mehrdad/centos.txt",
+		"/home/mehrdad/public_html/automation/asli/bin/automation/AsliServiceManager",
+		"/home/mehrdad/public_html/automation/asli/automation/protected/info/sql/patch-9.sql",
+		"/home/mehrdad/public_html/automation/asli/automation/protected/info/sql/patch-10.sql",
+		"/home/mehrdad/public_html/automation/asli/automation/protected/info/sql/patch-11.sql",
+		"/home/mehrdad/Downloads/st/install.txt",
+		"/media/mehrdad/8c142ba0-db0d-4774-b289-9d3e9ad972c41/files_emrooz/Pacific Rim (2013)/Pacific.Rim.2013.720p.BluRay.x264.YIFY & (parisa_spark).srt",
+		"/media/mehrdad/8c142ba0-db0d-4774-b289-9d3e9ad972c41/files_emrooz/Pacific Rim (2013)/Pacific.Rim.2013.720p.BluRay.x264.YIFY.srt",
+		"/home/mehrdad/public_html/automation/asli/automation/protected/models/SabaTamir.php",
+		"/home/mehrdad/public_html/automation/asli/automation/protected/models/SabaInfo.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/media/truecrypt3/automation/asli/automation",
+			"/home/mehrdad/public_html/automation/asli/automation/",
+			"/home/mehrdad/public_html/automation/asli/automation/protected/info/sql",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ROIVapdu",
+			"actionsave",
+			"save",
+			"allRelation",
+			"oneToOthersSearch",
+			"allRelation",
+			"actionAllRelation",
+			"oneToOthers",
+			"allRelation",
+			"printSavedRelation",
+			"printRelation",
+			"printSavedRelation",
+			"printRelation",
+			"printSavedRelation",
+			"FindRelation",
+			"deleteSa",
+			"closeGr",
+			"deleteSavedRelation",
+			"showSavedRelation",
+			"savedSearchDialog",
+			"findrelation_section",
+			"showDataRelation",
+			"max_call_section",
+			"SaveAllRelation",
+			"TelldataSaveResponse",
+			"issave",
+			"saveAllRelation",
+			"savedSearchDialog",
+			"chartShow",
+			"printRelation",
+			"oneTo",
+			"SAFE_TIME",
+			"SAFE_TIME4",
+			"php ",
+			"oneToOth",
+			"AllRelation",
+			"checkFindRelation",
+			"AllRelation",
+			"checkFindRelation",
+			"inout",
+			"checkFindRelation",
+			"actionFindRelation",
+			"checkFindRelation",
+			"checkResponse",
+			"checkFindRelation",
+			"oneToOthersSearch",
+			"allRelation",
+			"oneto",
+			"oneToOthers",
+			"oneToOthersSoId",
+			"getSoNumber",
+			"oneToOthersSoId",
+			"sabaTamirSave",
+			"edittemptamirrow",
+			"saveNew",
+			"edittemptamirrow",
+			"checkNumberPhone",
+			"saveNew",
+			"نوع‌بهره‌برداری",
+			"sabatamirtempedit",
+			"checkValidate",
+			"sabatamirtempedit",
+			"saveTempInfo",
+			"sabatamirtempsave",
+			"sabatamirtempedit",
+			"checkNumberPhone",
+			"TempSabaTamir",
+			"checkNumberPhone",
+			"international",
+			"sabatamirtempsave",
+			"checkNumberPhone",
+			"saveNew",
+			"$s[",
+			"checkNumberPhone",
+			"saveN",
+			"checkNumberPhone",
+			"stphone_number",
+			"pure-button",
+			"showDataDialog",
+			"getChartid",
+			"username",
+			"extraContent",
+			"laccellDataRelation",
+			"inoutdata",
+			"onClick",
+			"dblc",
+			"sonum",
+			"userid",
+			"`userid` IN ($group)",
+			"in_out_number",
+			"grou",
+			"actionUpload",
+			"getGroup",
+			"group",
+			"group_list",
+			"+",
+			"log",
+			"Delete",
+			"the letter response tamir number of letter",
+			"need_set_serial",
+			"browserSerialRefresh",
+			"acceptHid",
+			"needUserSecLoginAcccept",
+			"acceptHid",
+			"DeleteSecLogin",
+			"userlogindata",
+			"create",
+			"DeleteSecLogin",
+			"userlogindata",
+			"token",
+			"letter_response",
+			"SendRequestTamir",
+			"TamirResponse",
+			"zjala",
+			"inboxdata",
+			"filterInbox",
+			"filterinbox",
+			"tamirResponse",
+			"respons",
+			"sec_login",
+			"actioncreate",
+			"create",
+			"SecLoginActive",
+			"userlogindata",
+			"UserLoginDataLoad",
+			"userlogindata",
+			"getUserHid",
+			"width"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"`group_id`='$group'",
+			"",
+			"log_save",
+			"lacCell",
+			"$",
+			"MyISAM",
+			"InnoDB",
+			"TSgallerySlider",
+			"TSgallery",
+			"mdata",
+			"row",
+			"sheetData",
+			"worksheet",
+			"input class=\"pure-input-2-3\"",
+			"h3",
+			"",
+			"response",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "backend/controllers/PostController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								39
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "backend/views/post/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "backend/controllers/SiteController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1796,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								731,
+								731
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "yii2.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/media/truecrypt3/tadbir/tadbir.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
