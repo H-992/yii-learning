@@ -9,6 +9,8 @@ use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
 
+use persianyii\jalali\Jalali;
+
 /**
  * ProfileController implements the CRUD actions for Profile model.
  */
@@ -32,6 +34,10 @@ class ProfileController extends Controller
      */
     public function actionIndex()
     {
+
+        echo Jalali::jdate('y/m/d',time());
+        exit();
+
         $dataProvider = new ActiveDataProvider([
             'query' => Profile::find(),
         ]);
